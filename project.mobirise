@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-07_1340-clone",
+    "name": "Profitable Niche Video PLR",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ic04-128x128.png",
     "noImageResize": "",
     "global-footer": "",
     "google-analytics": "",
@@ -44,7 +44,12 @@
     "uniqCompNum": 79,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
